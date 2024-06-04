@@ -1,0 +1,14 @@
+A: 8152
+B: 27361080
+C: 81.00
+D: 33.73
+E: 21
+F: 2
+G: 2.00
+H: 21.00
+I: 22.00
+J: 2
+K: 22.00
+Area from 23.567 circumference is: 44.197502
+14 feet is 4.27 meters
+76 degrees F is 24.44 celcius

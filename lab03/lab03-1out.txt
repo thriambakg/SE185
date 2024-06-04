@@ -1,0 +1,8 @@
+5 meters = 16.404200 feet.
+5 feet = 1.524000 meters.
+5 kilograms = 11.023100 pounds.
+5 pounds = 2.267960 kilograms.
+5 minutes = 0.083333 hours.
+5 hours = 0.208333 days.
+5 days = 120.000000 hours.
+5 minutes = 300.000000 seconds.
